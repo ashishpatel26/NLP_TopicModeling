@@ -171,11 +171,6 @@ pd.DataFrame(data={'original word': original_words, 'stemmed': singles})
 ```
 
 
-    <IPython.core.display.Javascript object>
-
-
-
-
 
 <div>
 <style scoped>
@@ -183,14 +178,7 @@ pd.DataFrame(data={'original word': original_words, 'stemmed': singles})
         vertical-align: middle;
     }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-    
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
