@@ -1,4 +1,4 @@
-## Topic Modeling
+## Topic Modeling [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ashishpatel26/NLP_TopicModeling/master?filepath=Topic%20Modeling.ipynb)
 
 This is practice Notebook.
 
